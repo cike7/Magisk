@@ -15,7 +15,7 @@
 	url = https://github.com/topjohnwu/libcxx.git
 [submodule "zlib"]
 	path = native/src/external/zlib
-	url = https://android.googlesource.com/platform/external/zlib
+	url = https://github.com/aosp-mirror/platform_external_zlib.git
 [submodule "zopfli"]
 	path = native/src/external/zopfli
 	url = https://github.com/google/zopfli.git
